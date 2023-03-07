@@ -1,0 +1,2 @@
+module uDemyJava6 {
+}
